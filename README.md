@@ -14,7 +14,7 @@ You can learn more about my background and experience on my [LinkedIn profile](h
 
 Here are some of the data analysis projects I have worked on:
 
-* [New Product Sales Methods Analysis](link): 
+* New Product Sales Methods Analysis: [code](https://github.com/k-pereverzeva/Data-Analysis-Portfolio/blob/019712e47f009ab0ce755fbd9735f2d8f12296e2/sales_methods_analysis_code.ipynb) 
 
 ## Skills
 
