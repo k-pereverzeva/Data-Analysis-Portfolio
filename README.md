@@ -15,7 +15,7 @@ You can learn more about my background and experience on my [LinkedIn profile](h
 Here are some of the data analysis projects I have worked on:
 
 * [New Product Sales Methods Analysis](https://github.com/k-pereverzeva/Data-Analysis-Portfolio/blob/019712e47f009ab0ce755fbd9735f2d8f12296e2/sales_methods_analysis_code.ipynb): The goal of the project was to determine the most effective sales approach for a new line of office stationery by comparing the results of three different sales strategies - targeted email, phone calls, and a combination of both. 
-Using Python and data visualization libraries, I analyzed the sales data from the three different sales strategies and compared their results. I also created a [report](https://github.com/k-pereverzeva/Data-Analysis-Portfolio/blob/3a8568167eb0d0b2084ea7170520d0c35e02eb88/sales_method_analysis_report.ipynb) and [presentation](sales_methods_analysis_presentation.pdf) summarizing my findings.
+Using Python and data visualization libraries, I analyzed the sales data from the three different sales strategies and compared their results. I also created a [report](sales_method_analysis_report.ipynb) and presentation summarizing my findings.
 
 ## Skills
 
